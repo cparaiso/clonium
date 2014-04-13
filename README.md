@@ -2,7 +2,10 @@
 
 A free theme for [Ghost 0.4.2](http://github.com/tryghost/ghost/) based off Medium UX profiles and posts.
 
-At its core, it is Casper default theme with a few styling changes.  At the time of writing this I still have Casper specific CSS in this file.  I plan on doing some pruning in the future.
+![Landing Page](https://github.com/cparaiso/clonium/raw/master/ss-landing.png)
+![Post Page](https://github.com/cparaiso/clonium/raw/master/ss-post.png)
+
+At its core, it is Casper default theme with a few styling changes.  At the time of writing this I still have Casper specific CSS in this theme.  I plan on doing some pruning in the future.
 
 Note: Blog cover photos have not been taken to account yet.
 
