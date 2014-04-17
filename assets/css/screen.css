@@ -633,6 +633,10 @@ box-shadow: 0 2px 4px 0 rgba(0,0,0,0.15);
 
 /* Stop .full-img from creating horizontal scroll - slight hack due to
    imperfections with browser width % calculations and rounding */
+.post-template .post-title {
+    margin-bottom: 3rem;
+}
+
 .post-template .content {
     overflow: hidden;
 }
