@@ -199,14 +199,14 @@ h4, h5, h6 {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 3.75rem;
     line-height: 1.2em;
     letter-spacing: -2px;
     text-indent: -3px;
 }
 
 h2 {
-    font-size: 4rem;
+    font-size: 3.75rem;
     line-height: 1.2em;
     letter-spacing: -1px;
     text-indent: -2px;
@@ -756,6 +756,8 @@ box-shadow: 0 2px 4px 0 rgba(0,0,0,0.15);
     -webkit-border-radius: 80px;
     -moz-border-radius: 80px;
     border-radius: 80px;
+    width: 80px;
+    height: 80px;
 }
 
 .author-info {
